@@ -1,0 +1,27 @@
+{
+  "name": "socialmed",
+  "version": "1.0.0",
+  "description": "Social media app using rest api and MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synergy-health-admin/socialmed.git"
+  },
+  "author": "Isaac Afara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synergy-health-admin/socialmed/issues"
+  },
+  "homepage": "https://github.com/synergy-health-admin/socialmed#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.13.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
