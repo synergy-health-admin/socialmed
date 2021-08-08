@@ -17,21 +17,21 @@ export default function Topbar(){
             
             <div className="topbarRight">
                 <div className="topbarLinks">
-                    <span className="topbarLink">Homepage</span>
+                    <span className="topbarLink">Home</span>
                     <span className="topbarLink">Timeline</span>
                 </div>
                 {/* ICONS */}
                 <div className="topbarIcons">
                     <div className="topbarIconItem">
-                        <Person/>
+                        <Person className="topbarIconSpec"/>
                         <span className="topbarIconBadge">1</span>
                     </div>
                     <div className="topbarIconItem">
-                        <Chat />
+                        <Chat className="topbarIconSpec"/>
                         <span className="topbarIconBadge">2</span>
                     </div>
                     <div className="topbarIconItem">
-                        <Notifications />
+                        <Notifications className="topbarIconSpec"/>
                         <span className="topbarIconBadge">1</span>
                     </div>
                 </div>
