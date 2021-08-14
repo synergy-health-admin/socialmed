@@ -5,13 +5,13 @@ export default function Topbar(){
     return(
         <div className="topbarContainer">
             <div className="topbarLeft">
-                <span className="logo">JSocial</span>
+                <span className="logo">FootyPal</span>
             </div>
 
             <div className="topbarCenter">
                 <div className="searchbar">
                     <Search className="searchIcon"/>
-                    <input placeholder="Search for friends, posts or videos" className="searchInput"/>
+                    <input placeholder="Find friends, posts or videos" className="searchInput"/>
                 </div>
             </div>
             
