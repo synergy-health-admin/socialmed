@@ -5,8 +5,8 @@ export default function Login() {
         <div className="login">
             <div className="loginWrapper">
                 <div className="loginLeft">
-                    <h3 className="loginLogo">Christian Social</h3>
-                    <span className="loginDesc">Connect with Christian friends around the world.</span>
+                    <h3 className="loginLogo">Berean Hub</h3>
+                    <span className="loginDesc">Connecting Christians worldwide in Bible study.</span>
                 </div>
 
                 <div className="loginRight">
