@@ -60,11 +60,12 @@
 }
 
 .shareOptionText{
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 500;
 }
 
 .shareButton{
+    font-size: 12px;
     border: none;
     padding: 7px;
     border-radius: 5px; 
